@@ -1,10 +1,16 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=20&fontColor=0000000000&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=20&fontColor=0000000000&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h2 align="center">💥 Hey 👋 What's Up, World?</h2>
+<div align="center">
+  <img height="150" src="https://media.tenor.com/qiMsFYfPu-wAAAAi/anime-hello.gif"  />
+</div>
+
+###
+
+<h2 align="center">💥 Hey 👋 Yo! What’s up, code wanderer?</h2>
 
 ###
 
@@ -12,30 +18,28 @@
 
 ###
 
-<h4 align="left">💫 About Me<br>- 🔭 I’m currently working on **Open Source / Personal Projects**<br>- 🌱 I’m learning **[React, Node.js, AI, Cloud, etc.]**<br>- 💬 Ask me about **Web Dev, APIs, or Automation**<br>- ⚡ Fun fact: I love solving puzzles and debugging weird errors 😅</h4>
+<h4 align="left">💫 About Me<br>- 🔭 I’m currently working on CSS..<br>- 🌱 I’m learning Linux, Git, Github, HTML,<br>- 💬Ask me anything… if Google knows, I probably do too 😎<br>- ⚡ Fun fact: I love solving puzzles and debugging weird errors 😅</h4>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
 </div>
 
 ###
@@ -62,12 +66,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiyonbasorokhaibam/saiyonbasorokhaibam/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saiyonbasorokhaibam/saiyonbasorokhaibam/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif"  />
-</div>
 
 ###
 
